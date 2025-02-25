@@ -1,6 +1,6 @@
 #include <stdio.h>
     
-    int main() {
+    int main () {
     printf("Super trunfo!!\n");
 
     int codigo;
